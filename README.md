@@ -17,3 +17,5 @@ A challenge we came across was creating a software using C++ using SFML. Since S
 Another challenge we faced was working collaboratively through an online interface. While the entirety of our group got along very well, completing online group work was very difficult, especially when creating 3D models and creating the physical Arduino prototype. However, we managed to overcome this challenge and ended up creating fairly good work.
 
 Our final challenge was serial communication between the Arduino and the computer. To fix this, we implemented an external C++ library to make the Arduino function.
+
+Check us out https://devpost.com/software/howler-heart?ref_content=user-portfolio&ref_feature=in_progress
