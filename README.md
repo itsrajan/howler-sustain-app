@@ -3,6 +3,7 @@
 # Team 25 Submission to Wolf Hacks 21 -- 2nd Place Winner
 
 <img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/480/133/datas/gallery.jpg">
+
 ## Inspiration
 A good environment and sustainability are absolutely necessary for human survival, however, without any organization, a fully sustainable planet wouldn't be able to survive. Our group, Team 25, were motivated to create a product that would manage all of the systems on Planet Howler.
 
