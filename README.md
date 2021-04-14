@@ -5,7 +5,7 @@
 <img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/480/133/datas/gallery.jpg">
 
 ## Inspiration
-A good environment and sustainability are absolutely necessary for human survival, however, without any organization, a fully sustainable planet wouldn't be able to survive. Our group, Team 25, were motivated to create a product that would manage all of the systems on Planet Howler.
+A good environment and sustainability are absolutely necessary for human survival, however, without any organization, a fully sustainable planet wouldn't be able to survive. Our group, Team 25, were motivated to create a product that would manage all of the systems on Planet Howler. 
 
 ## What it does
 Our product, Howler Heart, condenses all of the information from the various systems into a single, primary dashboard. We've managed to create a single analytics page that shows live updates of the weather, generated power, and agriculture. By using wireless technologies, we are able to seamlessly transfer data from various locations into Howler Heart, providing insightful data about the sustainability on the planet.
